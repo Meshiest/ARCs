@@ -10,6 +10,7 @@ created: 9-29-2022
 voting_start: 100
 voting_end: 150
 snapshot: 150
+pass_threshold: 66
 ---
 
 ## Abstract
